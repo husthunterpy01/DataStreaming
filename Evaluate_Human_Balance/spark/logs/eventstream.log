@@ -1,0 +1,236 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Santosh.Jefferson...| 21.5|
+| Eric.Jones@test.com|  0.5|
+|Jane.Sanchez@test...| 34.5|
+| John.Abram@test.com| -9.0|
+| Eric.Clark@test.com| -3.5|
+|Neeraj.Khatib@tes...| -2.0|
+|Travis.Phillips@t...| -4.5|
+|Travis.Doshi@test...| -4.0|
+|Chris.Habschied@t...| -1.5|
+|Jason.Doshi@test.com|  5.5|
+|Spencer.Sanchez@t...| -2.5|
+|Eric.Clayton@test...|  5.5|
+|Sean.Hansen@test.com|  4.0|
+|Sean.Spencer@test...|  8.5|
+|David.Clark@test.com| 19.0|
+|Jane.Phillips@tes...|-13.5|
+|Santosh.Jefferson...| 14.5|
+| Eric.Jones@test.com| -2.0|
+|Jane.Sanchez@test...| 12.5|
+| John.Abram@test.com|-10.5|
++--------------------+-----+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Eric.Clayton@test...|-26.0|
+|Sean.Hansen@test.com|  0.0|
+|Sean.Spencer@test...|  6.5|
+|David.Clark@test.com|-18.0|
+|Jane.Phillips@tes...|-12.5|
+|Santosh.Jefferson...| 28.5|
+| Eric.Jones@test.com| 35.0|
+|Jane.Sanchez@test...|-13.0|
+| John.Abram@test.com|-12.5|
+| Eric.Clark@test.com| -4.5|
+|Neeraj.Khatib@tes...| -3.5|
+|Travis.Phillips@t...| -4.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Travis.Doshi@test...| -2.0|
+|Chris.Habschied@t...| -2.0|
+|Jason.Doshi@test.com|-12.0|
+|Spencer.Sanchez@t...| 17.0|
+|Eric.Clayton@test...|-27.5|
+|Sean.Hansen@test.com| 24.0|
+|Sean.Spencer@test...|-17.5|
+|David.Clark@test.com|  0.5|
+|Jane.Phillips@tes...| 11.0|
+|Santosh.Jefferson...| -4.0|
+| Eric.Jones@test.com| 17.0|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Jane.Sanchez@test...|-32.0|
+| John.Abram@test.com|  1.0|
+| Eric.Clark@test.com| -2.0|
+|Neeraj.Khatib@tes...| -4.0|
+|Travis.Phillips@t...| -1.5|
+|Travis.Doshi@test...| -4.0|
+|Chris.Habschied@t...| -3.5|
+|Jason.Doshi@test.com|-12.0|
+|Spencer.Sanchez@t...|  3.0|
+|Eric.Clayton@test...| -9.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Sean.Hansen@test.com| -2.5|
+|Sean.Spencer@test...| 31.5|
+|David.Clark@test.com|  0.0|
+|Jane.Phillips@tes...|  3.5|
+|Santosh.Jefferson...| -7.0|
+| Eric.Jones@test.com| -8.5|
+|Jane.Sanchez@test...|  5.0|
+| John.Abram@test.com|  6.0|
+| Eric.Clark@test.com| -1.0|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 5
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Neeraj.Khatib@tes...| -3.5|
+|Travis.Phillips@t...| -1.0|
+|Travis.Doshi@test...| -5.0|
+|Chris.Habschied@t...| -4.5|
+|Jason.Doshi@test.com| -7.0|
+|Spencer.Sanchez@t...|-10.5|
+|Eric.Clayton@test...|-12.0|
+|Sean.Hansen@test.com|-17.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 6
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Sean.Spencer@test...| 13.0|
+|David.Clark@test.com|  6.5|
+|Jane.Phillips@tes...| 16.0|
+|Santosh.Jefferson...| 11.0|
+| Eric.Jones@test.com|  1.5|
+|Jane.Sanchez@test...| 43.0|
+| John.Abram@test.com|  2.0|
+| Eric.Clark@test.com| -1.5|
+|Neeraj.Khatib@tes...| -3.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 7
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Travis.Phillips@t...| -2.0|
+|Travis.Doshi@test...| -4.5|
+|Chris.Habschied@t...| -5.5|
+|Jason.Doshi@test.com| -2.0|
+|Spencer.Sanchez@t...|  8.5|
+|Eric.Clayton@test...| 10.0|
+|Sean.Hansen@test.com| -0.5|
+|Sean.Spencer@test...|-12.5|
+|David.Clark@test.com|  7.5|
+|Jane.Phillips@tes...|  5.0|
+|Santosh.Jefferson...| 23.5|
+| Eric.Jones@test.com|-11.0|
+|Jane.Sanchez@test...|  9.5|
+| John.Abram@test.com| -7.5|
+| Eric.Clark@test.com| -3.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 8
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Neeraj.Khatib@tes...| -4.5|
+|Travis.Phillips@t...| -1.0|
+|Travis.Doshi@test...| -3.0|
+|Chris.Habschied@t...| -4.5|
+|Jason.Doshi@test.com| 18.0|
+|Spencer.Sanchez@t...|  3.5|
+|Eric.Clayton@test...| 22.5|
+|Sean.Hansen@test.com| 25.5|
+|Sean.Spencer@test...|  1.0|
+|David.Clark@test.com| -4.0|
+|Jane.Phillips@tes...|  2.0|
+|Santosh.Jefferson...|  9.0|
+| Eric.Jones@test.com|-21.0|
+|Jane.Sanchez@test...|-41.0|
+| John.Abram@test.com| -4.0|
+| Eric.Clark@test.com| -5.5|
+|Neeraj.Khatib@tes...| -4.5|
+|Travis.Phillips@t...| -1.0|
+|Travis.Doshi@test...| -2.5|
+|Chris.Habschied@t...| -2.5|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 9
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Jason.Doshi@test.com| 20.5|
+|Spencer.Sanchez@t...| 39.5|
+|Eric.Clayton@test...| 39.0|
+|Sean.Hansen@test.com|  9.0|
+|Sean.Spencer@test...|  8.0|
+|David.Clark@test.com| 18.0|
+|Jane.Phillips@tes...| 23.0|
+|Santosh.Jefferson...|-14.5|
+| Eric.Jones@test.com|-10.0|
+|Jane.Sanchez@test...|-32.5|
+| John.Abram@test.com| 28.5|
+| Eric.Clark@test.com| -4.5|
+|Neeraj.Khatib@tes...| -3.0|
+|Travis.Phillips@t...| -3.0|
+|Travis.Doshi@test...| -3.0|
+|Chris.Habschied@t...| -2.5|
+|Jason.Doshi@test.com|  6.0|
++--------------------+-----+
+
+-------------------------------------------
+Batch: 10
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Spencer.Sanchez@t...| 17.0|
+|Eric.Clayton@test...|-13.0|
+|Sean.Hansen@test.com|-11.0|
+|Sean.Spencer@test...| -9.5|
+|David.Clark@test.com| 10.0|
+|Jane.Phillips@tes...| 11.0|
+|Santosh.Jefferson...|-31.0|
+| Eric.Jones@test.com|  4.0|
+|Jane.Sanchez@test...| 19.5|
+| John.Abram@test.com| 22.5|
+| Eric.Clark@test.com| -2.0|
+|Neeraj.Khatib@tes...| -1.0|
+|Travis.Phillips@t...| -4.5|
+|Travis.Doshi@test...| -3.0|
+|Chris.Habschied@t...| -3.5|
+|Jason.Doshi@test.com| 10.5|
++--------------------+-----+
+
